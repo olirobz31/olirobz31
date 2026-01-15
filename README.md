@@ -44,7 +44,7 @@ Développeur web spécialisé en **création de sites professionnels**, **e-comm
 ## 📫 Contact
 
 🌐 [olivier-pons-devweb.fr](https://olivier-pons-devweb.fr)  
-📧 olirobz31@gmail.com  
+📧 contact@olivier-pons-devweb.fr  
 📍 Toulouse, France
 
 ---
