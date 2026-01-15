@@ -32,6 +32,8 @@ Développeur web spécialisé en **création de sites professionnels**, **e-comm
 - **MotoPro** - Concessionnaire moto avec catalogue
 - **FitCoach** - Coach sportif avec témoignages
 - **Site Pisciniste** - Entreprise locale avec SEO optimisé
+- **Végétalicious** - Blog culinaire vegan
+- **Eco Wood** - E-commerce produits écologiques
 
 **SaaS & Applications :**
 - **LegaleAI** - Génération documents légaux IA
